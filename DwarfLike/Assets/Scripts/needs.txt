@@ -1,0 +1,12 @@
+- ground plane
+- panning
+- figure out scaling factor -- city size : 
+- canonshooting from location in ar world
+- android app wallit
+- rooftops
+- 
+
+
+- 6 degrees of freedom, render ar models based on gps technology
+
+- mapillery / mapillary

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4fd857c0b42e344e82bfdde5ac22a1c, type: 3}
+  m_Name: ShadowWelp_Idle
+  m_EditorClassIdentifier: 
+  name: 
+  sprites:
+  - {fileID: 21300000, guid: b779d5ded0381814b8117dbc037a6bca, type: 3}
+  - {fileID: 21300002, guid: b779d5ded0381814b8117dbc037a6bca, type: 3}
+  - {fileID: 21300004, guid: b779d5ded0381814b8117dbc037a6bca, type: 3}
+  - {fileID: 21300006, guid: b779d5ded0381814b8117dbc037a6bca, type: 3}
+  - {fileID: 21300008, guid: b779d5ded0381814b8117dbc037a6bca, type: 3}
+  - {fileID: 21300010, guid: b779d5ded0381814b8117dbc037a6bca, type: 3}
+  - {fileID: 21300012, guid: b779d5ded0381814b8117dbc037a6bca, type: 3}
+  timeBetweenFrames: 0.08
+  useMotionMulitplier: 0
+  frameMovement: []
+  useSoundEffects: 0
+  clips: []
